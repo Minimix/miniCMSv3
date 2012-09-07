@@ -1,0 +1,7 @@
+/.idea/*
+/cache/*
+/tmp/*
+/test/*
+/config/database.php
+/nbproject/*
+/log/*
