@@ -1,0 +1,115 @@
+ERROR : [2012-10-09 23:25:34 0.8547]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:25:34 0.8642] 
+
+
+*********************************************************
+*	2012-10-09 23:25:34 		*
+*	eb679f157ba794b606bb19060a459031		*
+*********************************************************
+
+[2012-10-09 23:25:34 0.8649] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:31:58 0.7787]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:31:58 0.7803] 
+
+
+*********************************************************
+*	2012-10-09 23:31:58 		*
+*	6b8a9fbd9a126365cce20ee1742a2dff		*
+*********************************************************
+
+[2012-10-09 23:31:58 0.7805] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:32:04 0.9371]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:32:04 0.9387] 
+
+
+*********************************************************
+*	2012-10-09 23:32:04 		*
+*	9057260c282ea55f32f71c4dc97babd0		*
+*********************************************************
+
+[2012-10-09 23:32:04 0.9435] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:38:35 0.5272]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+ERROR : [2012-10-09 23:54:38 0.3937]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:54:38 0.4628] 
+
+
+*********************************************************
+*	2012-10-09 23:54:38 		*
+*	s2uo6l91du673hulqpi23rbcn0		*
+*********************************************************
+
+[2012-10-09 23:54:38 0.4636] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:55:43 0.8892]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:55:43 0.8906] 
+
+
+*********************************************************
+*	2012-10-09 23:55:43 		*
+*	r65vrbg9t5v0c0kukgu32l4tk1		*
+*********************************************************
+
+[2012-10-09 23:55:43 0.8908] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:58:03 0.0272]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:58:03 0.0285] 
+
+
+*********************************************************
+*	2012-10-09 23:58:03 		*
+*	2fr3ji7qft23dm7hcrotpu5c17		*
+*********************************************************
+
+[2012-10-09 23:58:03 0.0287] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+ERROR : [2012-10-09 23:59:24 0.8926]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:59:24 0.8939] 
+
+
+*********************************************************
+*	2012-10-09 23:59:24 		*
+*	vr119lhde7pfmqp9repnp45q56		*
+*********************************************************
+
+[2012-10-09 23:59:24 0.9270] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+[2012-10-09 23:59:25 0.5559] /Users/batmu.../common.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5683] /Users/batmu...mponent.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5692] /Users/batmu.../plugin.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5699] /Users/batmu...ons/tag.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5704] /Users/batmu...s/tag_a.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5810] /Users/batmu...tag_img.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5816] /Users/batmu...emplate.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.5966] Config[app] to fileshare (fileshare) in file /Users/batmu...Config/App.class.php at row 52
+[2012-10-09 23:59:25 0.5970] Config[app_dir] to /Users/batmu...CMSv3/app/fileshare/ (/Users/batmu...CMSv3/app/fileshare/) in file /Users/batmu...Config/App.class.php at row 55
+[2012-10-09 23:59:25 0.6102] /Users/batmu...nfig/config.main.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.6108] /Users/batmu.../config.security.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.6109] /Users/batmu...nfig/config.view.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:25 0.6114] Config[module] set to home (home) in file /Users/batmu...fig/Module.class.php at row 52
+[2012-10-09 23:59:25 0.6115] Config[module_dir] set to /Users/batmu...eshare/modules/home/ (/Users/batmu...eshare/modules/home/) in file /Users/batmu...fig/Module.class.php at row 55
+[2012-10-09 23:59:25 0.6122] Config[action] set to index (index) in file /Users/batmu...fig/Action.class.php at row 54
+[2012-10-09 23:59:25 0.6317] Twig template path set to /Users/batmu...ules/home/templates/ and /Users/batmu...miniCMSv3/templates/ in file /Users/batmu...s/Template.class.php at row 37
+[2012-10-09 23:59:25 0.6461] Twig cache dir set to /Users/batmunkh/Webs/My/miniCMSv3/cache/twig/ in file /Users/batmu...s/Template.class.php at row 48
+ERROR : [2012-10-09 23:59:59 0.4468]  route not found in file /Users/batmu...es/Routing.class.php at row 110
+[2012-10-09 23:59:59 0.4483] 
+
+
+*********************************************************
+*	2012-10-09 23:59:59 		*
+*	83o6jdj59eggdcprc2njoqk4e5		*
+*********************************************************
+
+[2012-10-09 23:59:59 0.4560] Language file found. (mn) in file /Users/batmu...s/Language.class.php at row 28
+[2012-10-09 23:59:59 0.6338] /Users/batmu.../common.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6340] /Users/batmu...mponent.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6607] /Users/batmu.../plugin.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6611] /Users/batmu...ons/tag.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6613] /Users/batmu...s/tag_a.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6615] /Users/batmu...tag_img.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6616] /Users/batmu...emplate.function.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6622] Config[app] to fileshare (fileshare) in file /Users/batmu...Config/App.class.php at row 52
+[2012-10-09 23:59:59 0.6623] Config[app_dir] to /Users/batmu...CMSv3/app/fileshare/ (/Users/batmu...CMSv3/app/fileshare/) in file /Users/batmu...Config/App.class.php at row 55
+[2012-10-09 23:59:59 0.6625] /Users/batmu...nfig/config.main.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6627] /Users/batmu.../config.security.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6628] /Users/batmu...nfig/config.view.php file included in file /Users/batmu...asses/File.class.php at row 64
+[2012-10-09 23:59:59 0.6631] Config[module] set to home (home) in file /Users/batmu...fig/Module.class.php at row 52
+[2012-10-09 23:59:59 0.6632] Config[module_dir] set to /Users/batmu...eshare/modules/home/ (/Users/batmu...eshare/modules/home/) in file /Users/batmu...fig/Module.class.php at row 55
+[2012-10-09 23:59:59 0.6634] Config[action] set to index (index) in file /Users/batmu...fig/Action.class.php at row 54
+[2012-10-09 23:59:59 0.6641] Twig template path set to /Users/batmu...ules/home/templates/ and /Users/batmu...miniCMSv3/templates/ in file /Users/batmu...s/Template.class.php at row 37
+[2012-10-09 23:59:59 0.6673] Twig cache dir set to /Users/batmunkh/Webs/My/miniCMSv3/cache/twig/ in file /Users/batmu...s/Template.class.php at row 48

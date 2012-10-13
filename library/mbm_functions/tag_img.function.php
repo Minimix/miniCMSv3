@@ -7,6 +7,11 @@
  * file that was distributed with this source code.
  */
 
+/**
+ * zurgiig hevleh
+ * 
+ * @return string
+ */
 function image_tag($image_file = '', $attr = array()){
     
     if(substr_count($image_file, 'http:')>0){

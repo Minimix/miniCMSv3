@@ -16,7 +16,6 @@
  * @author     BATMUNKH Moltov <contact@batmunkh.com>
  * @version    SVN: $Id 
  */
-
 class Core {
 
     public $include_dir;
@@ -44,7 +43,15 @@ class Core {
 
         $this->initConfig($config);
 
+        /**
+         * set deault time zone
+         */
+        date_default_timezone_set(TIME_ZONE);
+
+
         $this->GET = Request_Get::setGetQuery($_SERVER['REQUEST_URI']);
+
+
         /**
          * SESSION ID shineer onooh
          * QUERYSTRING format : mBmCHECK/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

@@ -24,6 +24,7 @@ class User {
     public $user_id;
     public $is_logged_in = 0;
     public $default_credentials = array();
+    public $user_info = array();
 
     public function __construct($user_info = array()) {
 
@@ -148,6 +149,17 @@ class User {
      * @return boolean
      */
     public function sessionDestroy() {
+
+        $this->session->shutdown();
+        $this->session->regenerate(true);
+
+        return true;
+    }
+    
+    /**
+     * @return boolean
+     */
+    public function generatePassword($password,$salt) {
 
         $this->session->shutdown();
         $this->session->regenerate(true);

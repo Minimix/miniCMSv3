@@ -28,6 +28,12 @@ function link_to($link_name = '', $link = '', $attr = array()){
     return $buf;
 }
 
+
+/**
+ * link iig SEO helbert oruulah
+ * 
+ * @return string
+ */
 function buildLink($data){
     $data = str_replace('?', DS, $data);
     $data = str_replace('=', DS, $data);

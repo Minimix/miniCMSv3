@@ -3,7 +3,7 @@
 * @param $config
 * @return null
 */
-public function ClassName($config) {
+public function FunctionName($config) {
 
     $this->initConfig($config);
     $this->GET = $this->setGetQuery($_SERVER ['QUERY_STRING']);

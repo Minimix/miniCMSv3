@@ -9,7 +9,6 @@ $mbm_config ['www_dir'] = ''; // http://www.mng.cc/www_dir/ helberteigeer suuril
 $mbm_config ['tmp_dir'] = ABS_DIR.'tmp'.DS; 
 $mbm_config ['cache_dir'] = ABS_DIR.'cache'.DS; 
 $mbm_config ['log_dir'] = ABS_DIR.'log'.DS; 
-$mbm_config ['data_dir'] = ABS_DIR.'data'.DS; 
 
 /****************Default utguud*********************/
 $mbm_config ['default_charset'] = 'utf8';
@@ -28,7 +27,6 @@ $mbm_config ['date_format'] = "Y/m/d H:i:s";
 
 /****************CACHE tohirgoo*********************/
 $mbm_config ['use_cache'] = 1;
-$mbm_config ['use_type'] = 'APC'; //APC, memcached
 $mbm_config ['cache_name'] = 'memcached';
 $mbm_config ['cache_host'] = 'localhost';
 $mbm_config ['cache_port'] = 11218;

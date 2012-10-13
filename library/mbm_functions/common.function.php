@@ -10,6 +10,20 @@
 
 
 /**
+ * huvisagch iin iluu dutuu attack temdegtuudiig tseverleh
+ * 
+ * 
+ * @return string
+ */
+function _clean($txt=''){
+    
+    $txt = escapeshellcmd($txt);
+    $txt = escapeshellarg($txt);
+    
+    return $txt;
+}
+
+/**
  * undsen core uudad hereglegdej bgaa tul tusad n gargaj hadgalav. mun tusad include hiij bgaa bolno
  */
 function __($txt = '') {
@@ -41,14 +55,16 @@ function http_load_file($filetype = 'txt') {
             break;
     }
 }
-function shrink_text($text = '', $max_length = 32) {
-    
-    if (strlen($text) >$max_length) {
-        $text = substr($text, 0, 12) . '...' . substr($text, -20);
-    }
-    
-    return $text;
+
+/**
+ *  ugugdsun dir ees file include hiih
+ * 
+ * @param string Absolute path. / aar tugsunu
+ */
+function include_files($dir){
+    File::getAndIncludePHPFiles($dir);
 }
+
 
 function load_css($filepath){
     Config::$css_files[$filepath] = $filepath;
@@ -66,7 +82,6 @@ function display_layout(){
     Template::loadLayout();
 }
 
-
 /**
  * Template ees onoogdson template iig duudna
  * @param string $template_date
@@ -83,11 +98,12 @@ function render_template($template_file, $array = array(),$template_data = 'body
     Template::renderTemplate($template_file, $array_data,$template_data);
 }
 
-/**
- *  ugugdsun dir ees file include hiih
- * 
- * @param string Absolute path. / aar tugsunu
- */
-function include_files($dir){
-    File::getAndIncludePHPFiles($dir);
+function shrink_text($text = '', $max_length = 32) {
+    
+    if (strlen($text) >$max_length) {
+        $text = substr($text, 0, 12) . '...' . substr($text, -20);
+    }
+    
+    return $text;
 }
+
